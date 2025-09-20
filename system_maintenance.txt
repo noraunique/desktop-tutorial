@@ -1,0 +1,71 @@
+
+--- Page 13 ---
+Examples of these software packages are HP BTO and LANDesk.
+One specific type of network monitoring system is designed to monitor the availability of web
+servers. For large enterprises that use a pool of web servers that are distributed worldwide, these
+systems help to quickly detect problems at any location. Website monitoring services available on
+the Internet include Munities.
+Simple Network Management Protocol
+Simple Network Management Protocol is a popular management protocol that includes network
+monitoring software. SNMP is the most widely used network monitoring and management protocol.
+It includes:
+• The devices in the network that is being monitored
+• Agent software on the monitored devices
+• A network management system (NMS), which is a toolset on a server that monitors each
+device on a network and communicates information about those devices
+Administrators can use SNMP monitor and manage aspects of their networks by:
+• Gathering information on how much bandwidth is being used on the network
+• Active polling the network devices to ask for a status at specified intervals
+• Notifying the admin by text message of a device failure
+• Collecting error reports, which can be used for troubleshooting
+• Emailing an alert when the server reaches a specified low disk space level
+SNMP v3 is the current version. It should be used because it contains security features that were
+missing in versions 1 and 2.
+4.10. System Maintenance
+Regular maintenance of the networked systems helps them to run more smoothly as well as reduce
+the risk of break downs. By having a well-designed maintenance schedule assists you in organizing
+your maintenance tasks.
+Maintenance Schedule
+Although 24/7 access to servers is often necessary, routine maintenance and upgrades are equally
+necessary. To prevent inconveniences, you must establish weekly maintenance times for major
+systems as follows.
+79
+Unit 02: Networking
+
+--- Page 14 ---
+Table 5.5.1.1 Maintenance Schedule
+System Maintenance Times Notice
+8 am – 8 pm, Sundays, only as
+Will provide 24-48 hours’
+needed
+Administrative Systems notice when taking down our
+administrative servers.
+8 am – 8 pm, Sundays, only as
+Will provide 24-48 hours’
+needed
+Network Services notice when taking down our
+Novell servers.
+When a longer down time is
+Moodle 5:00 am to 7:30 am, Thursdays required, will provide 24-48
+hours’ notice.
+5:00 am to 7:30 am, Thursdays
+When a longer down time is
+Typically, windows servers will
+Servers required, will provide 24-48
+be patched either the third or
+hours’ notice.
+fourth Thursday of each
+month.
+Networking and Internet
+Infrastructure (including 5:00 am to 7:30 am, Thursdays No additional notice.
+wireless system)
+Will provide 24-48 hours’
+Telephone No weekly schedule required notice when taking down the
+phone/ voicemail service.
+When maintenance is
+VMWARE Infrastructure No weekly schedule required required, affected users will be
+contacted
+Activity
+Design a maintenance schedule to support a networked system
+80
+Unit 02: Networking

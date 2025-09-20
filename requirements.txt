@@ -1,0 +1,13 @@
+sentence-transformers>=2.2.2
+faiss-cpu>=1.9.0
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+markdown>=3.5.1
+numpy>=1.24.3
+pandas>=2.0.3
+tqdm>=4.66.1
+click>=8.1.7
+colorama>=0.4.6
+rank-bm25>=0.2.2
+wordninja>=2.0.0
+streamlit>=1.36.0
