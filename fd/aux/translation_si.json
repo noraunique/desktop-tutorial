@@ -1,0 +1,13 @@
+{
+  "replacements": [
+    {"src": "system maintenance", "tgt": "පද්ධති නඩත්තු"},
+    {"src": "definition", "tgt": "අර්ථ දැක්වීම"},
+    {"src": "benefits", "tgt": "ලාභ"},
+    {"src": "steps", "tgt": "ක්‍රියාදම"},
+    {"src": "process", "tgt": "වාහනය/ක්‍රියාවලි"},
+    {"src": "update", "tgt": "යාවත්කාල කිරීම"},
+    {"src": "backup", "tgt": "උපස්ථ කිරීම"},
+    {"src": "security", "tgt": "ආරක්ෂාව"},
+    {"src": "performance", "tgt": "දක්ෂතාවය"}
+  ]
+}

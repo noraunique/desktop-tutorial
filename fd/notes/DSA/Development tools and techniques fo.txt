@@ -1,0 +1,72 @@
+ Development tools and techniques for implement this system. 
+
+tools
+
+1. Visual Studio Code
+   Visual Studio Code is a simple and flexible editor used for writing code. It allows the developer to edit, debug, and organize files in one place. Extensions can be added to make coding in PHP, HTML, and JavaScript easier. The tool highlights errors, which helps developers fix problems faster. It is widely used because it is free and supports many programming languages.
+
+2. PHP
+   PHP is a server-side programming language that runs the logic of web applications. It is useful for processing user requests, managing data, and connecting to databases. In this project, PHP will handle tasks like saving client details and processing investment calculations. It is widely used for secure and dynamic web applications.
+
+3. MySQL
+   MySQL is a database used to store and organize all project data. It will keep client information, transaction history, and investment records safe. MySQL allows fast searching and updating of data whenever required. It is reliable for financial systems where accuracy and security are important.
+
+4. GitHub
+   GitHub is an online platform for saving and tracking code changes. It allows developers to work together without overwriting each other’s work. Changes can be reviewed, and older versions can be restored if mistakes occur. It makes teamwork easier and keeps the project safe from accidental data loss.
+
+5. HTML
+   HTML is the base language used to build the structure of web pages. It is used to create forms, tables, and headings for the user interface. For this project, HTML will make pages for login, currency conversion, and investment plans. Without HTML, users cannot see or interact with the system properly.
+
+6. CSS
+   CSS is used to design and style the web pages to make them clear and professional. It changes colors, fonts, spacing, and page layouts to improve the user experience. A clean and responsive design is important for clients to navigate the system easily.
+
+7. JavaScript
+   JavaScript is a language that makes web pages interactive. It allows features like instant calculation and form validation without refreshing the page. For this system, JavaScript can show currency conversion results immediately after the user enters a value.
+
+8. phpMyAdmin
+   phpMyAdmin is a tool for managing the MySQL database in a web browser. It lets the team create tables, update data, and check stored records easily. It is very useful during testing to see if the system is saving and retrieving information correctly.
+
+9. Trello
+   Trello is a project management tool that organizes tasks on boards and cards. The development team can use it to track which features are being built, tested, or completed. It makes planning and progress monitoring easy in small teams.
+
+10. XAMPP
+    XAMPP is a local server package that allows developers to run PHP and MySQL on their computers. It is useful for testing the system before moving it to an online server. XAMPP makes development and debugging faster.
+
+
+
+
+
+
+
+techniques
+
+1. Modular Development
+   The system is split into small modules like login, currency conversion, and investment planning. Each module is built and tested separately, which makes the project easier to manage. It also allows the team to identify errors quickly.
+
+2. Prototyping
+   Prototyping is creating an early sample of the system to show the client. It allows the client to understand the design and request changes before the full system is developed.
+
+3. Incremental Coding
+   The project is developed in small steps. Basic functions are created first and tested before adding new features. This makes it easier to fix problems and track progress.
+
+4. Unit Testing
+   Each individual function or feature is tested separately to make sure it works correctly. This helps in detecting errors before the system is fully combined.
+
+5. Integration Testing
+   After modules are combined, integration testing checks if they work correctly together. For example, the login module and the database should function smoothly as one system.
+
+6. Version Control
+   Version control is used to track changes in the project using tools like GitHub. It allows the team to restore previous versions if needed and work together safely.
+
+7. Agile Sprints
+   Work is divided into short time periods called sprints. Each sprint delivers a small working part of the system that can be tested and shown to the client.
+
+8. Database Normalization
+   Data is organized in the database to avoid duplication and errors. This keeps the system clean and efficient, especially when storing financial records.
+
+9. Error Logging
+   The system records errors in a log file to help developers identify and fix problems quickly. This improves the reliability of the software.
+
+10. Security Implementation
+    Security techniques like password encryption and user access control protect client data. This is important for financial systems to prevent unauthorized access and data loss.
+

@@ -1,0 +1,13 @@
+{
+  "replacements": [
+    {"src": "system maintenance", "tgt": "கணினி அமைப்பு பராமரிப்பு"},
+    {"src": "definition", "tgt": "வரையறை"},
+    {"src": "benefits", "tgt": "நன்மைகள்"},
+    {"src": "steps", "tgt": "படிகள்"},
+    {"src": "process", "tgt": "செயல்முறை"},
+    {"src": "update", "tgt": "புதுப்பிப்பு"},
+    {"src": "backup", "tgt": "காப்புநகல்"},
+    {"src": "security", "tgt": "பாதுகாப்பு"},
+    {"src": "performance", "tgt": "செயல்திறன்"}
+  ]
+}

@@ -1,0 +1,17 @@
+# Files and patterns to exclude from indexing
+
+# Cover pages
+*cover*
+*title*
+
+# Table of contents
+*toc*
+*contents*
+
+# References and bibliography
+*references*
+*bibliography*
+*citations*
+
+# Appendices (optional)
+*appendix*

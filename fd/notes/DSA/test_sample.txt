@@ -1,0 +1,13 @@
+Sample Text File
+
+This is a sample text file to test TXT file extraction in the Notes Q&A system.
+
+Text files are the simplest format and should be processed correctly by the system. They contain plain text without any special formatting.
+
+Key points about text files:
+- Simple plain text format
+- No special formatting
+- Easy to process
+- Good for notes and documentation
+
+This content should be indexed and searchable through the Q&A system.

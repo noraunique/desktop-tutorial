@@ -1,0 +1,28 @@
+System Maintenance
+
+System maintenance is the routine preventive and corrective work that keeps networked systems secure, reliable, and performant. Regular maintenance of the networked systems helps them to run more smoothly as well as reduce the risk of break downs. By having a well-designed maintenance schedule assists you in organizing your maintenance tasks.
+
+Key aspects of system maintenance include:
+- Applying updates and security patches
+- Running and testing backups
+- Monitoring and log review
+- Hardware and capacity checks
+- System housekeeping
+
+Maintenance Schedule
+
+Although 24/7 access to servers is often necessary, routine maintenance and upgrades are equally necessary. To prevent inconveniences, you must establish weekly maintenance times for major systems.
+
+Administrative Systems: 8 am – 8 pm, Sundays, only as needed. Will provide 24-48 hours' notice when taking down administrative servers.
+
+Network Services: 8 am – 8 pm, Sundays, only as needed. Will provide 24-48 hours' notice when taking down Novell servers.
+
+Moodle: 5:00 am to 7:30 am, Thursdays. When a longer down time is required, will provide 24-48 hours' notice.
+
+Servers: 5:00 am to 7:30 am, Thursdays. Typically, windows servers will be patched either the third or fourth Thursday of each month. When a longer down time is required, will provide 24-48 hours' notice.
+
+Networking and Internet Infrastructure (including wireless system): 5:00 am to 7:30 am, Thursdays. No additional notice.
+
+Telephone: No weekly schedule required. Will provide 24-48 hours' notice when taking down the phone/voicemail service.
+
+VMWARE Infrastructure: No weekly schedule required. When maintenance is required, affected users will be contacted.
