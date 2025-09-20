@@ -1,6 +1,7 @@
 import os
 import time
 import tempfile
+import shutil
 from pathlib import Path
 import streamlit as st
 from typing import Optional, List
@@ -133,6 +134,27 @@ if source_mode == "Uploaded (session)":
             index_path = build_course_index(uploaded_course, str(session_upload_dir))
         st.sidebar.success(f"Indexed {len(saved)} file(s). Course: {uploaded_course}")
         st.session_state["uploaded_ready"] = True
+
+    # Clear uploaded session button
+    if st.sidebar.button("Clear uploaded session"):
+        # Remove uploaded temp dir
+        try:
+            if session_upload_dir.exists():
+                shutil.rmtree(session_upload_dir, ignore_errors=True)
+        except Exception:
+            pass
+        # Remove any built indices for the uploaded course
+        try:
+            idx = Path(INDEX_DIR) / f"{uploaded_course}_index.faiss"
+            meta = Path(INDEX_DIR) / f"{uploaded_course}_metadata.pkl"
+            if idx.exists():
+                idx.unlink()
+            if meta.exists():
+                meta.unlink()
+        except Exception:
+            pass
+        st.session_state["uploaded_ready"] = False
+        st.sidebar.success("Uploaded session cleared. You can upload new files now.")
 
 course = st.sidebar.selectbox(
     "Course",
