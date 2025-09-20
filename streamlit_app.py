@@ -23,6 +23,7 @@ GLASS_CSS = """
   background: linear-gradient(135deg, rgba(24,26,32,1) 0%, rgba(33,37,41,1) 50%, rgba(48,52,58,1) 100%);
 }
 
+
 /* Glass card */
 .glass-card {
   background: rgba(255, 255, 255, 0.08);
